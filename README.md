@@ -58,7 +58,9 @@ Encryption and decryption are optional features that users can enable as needed.
 
 ## Demonstration Video
 
-[![Demo Video]](video.mp4)
+https://github.com/ghassenelkamel/NodeJS-Message-Sender/assets/46763571/b9e0b468-d377-400f-887b-a11fb94afdec
+
+
 
 ## Contributors
 
